@@ -1,8 +1,8 @@
-name: portfolio
+name: Portfolio
 favicon: null
 layout_spectrum: 0.2514
 typography_spectrum: 0.231
-title: Portfolio
+title: 'Portfolio '
 cta:
   domain: null
   bucket: null
