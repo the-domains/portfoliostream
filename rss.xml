@@ -4,7 +4,7 @@
         <description><![CDATA[portfoliostream]]></description>
         <link>https://thegrid.ai/portfoliostream/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 18:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2016 18:19:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/portfoliostream/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Reel 2014]]></title>
@@ -12,6 +12,13 @@
             <link>https://youtu.be/OKsbrJHGSd8</link>
             <guid isPermaLink="false">b255ce8a-f8b0-438b-b22c-e8141900f239</guid>
             <pubDate>Wed, 10 Feb 2016 17:40:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Home Brew]]></title>
+            <description><![CDATA[<article><h1>Home Brew</h1><p>Cinematography/editing/color/composer</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1d668dd0c29cb3ca14f25019bec31a425f06ccf.jpg"></article>]]></description>
+            <link>https://youtu.be/5mGsayoagFA</link>
+            <guid isPermaLink="false">35286d3d-ab8e-4395-8471-57b5d3673414</guid>
+            <pubDate>Wed, 10 Feb 2016 18:19:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Novella Trailer]]></title>
