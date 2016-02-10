@@ -1,7 +1,7 @@
 name: portfoliostream
 favicon: null
-layout_spectrum: 0.8448165666777641
-typography_spectrum: 0.3042476107366383
+layout_spectrum: 0.2514
+typography_spectrum: 0.231
 cta:
   domain: null
   bucket: null
