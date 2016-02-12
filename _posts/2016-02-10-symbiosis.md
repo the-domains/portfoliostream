@@ -17,8 +17,8 @@ keywords:
   - abp
   - canteen
 description: ''
-datePublished: '2016-02-10T18:19:51.282Z'
-dateModified: '2016-02-10T18:05:57.993Z'
+datePublished: '2016-02-12T22:42:43.725Z'
+dateModified: '2016-02-10T22:29:24.707Z'
 author:
   - name: Kevin Dugger
     url: 'https://www.youtube.com/channel/UC7jv2f8BZn0J5VxOlFMowpA'
@@ -36,14 +36,14 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=HcsMFbZEkdI&feature=applinks'
     type: web
 title: Symbiosis
+sourcePath: _posts/2016-02-10-symbiosis.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: youtu.be
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-02-10-symbiosis.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
