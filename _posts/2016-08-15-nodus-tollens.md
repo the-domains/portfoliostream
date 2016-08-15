@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Director/Writer/Executive Producer/Editor/Composer
-datePublished: '2016-08-15T20:24:43.616Z'
-dateModified: '2016-08-15T20:24:38.427Z'
+datePublished: '2016-08-15T20:29:08.025Z'
+dateModified: '2016-08-15T20:29:03.962Z'
 title: Nodus Tollens
 author: []
 via: {}
