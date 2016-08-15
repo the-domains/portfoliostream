@@ -4,26 +4,26 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://youtu.be/SA-nDbrlwIU'
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-10T18:18:15.350Z'
-dateModified: '2016-02-10T18:11:09.739Z'
+description: Videographer/editor/color
+datePublished: '2016-08-15T20:23:50.405Z'
+dateModified: '2016-08-15T20:23:50.102Z'
 author:
-  - name: Kevin Dugger
+  - name: ''
     url: 'https://www.youtube.com/channel/UC7jv2f8BZn0J5VxOlFMowpA'
     avatar: {}
 related: []
 app_links: []
 title: Corey Howe Promo
+sourcePath: _posts/2016-02-10-corey-howe-promo.md
+via: {}
 authors: []
 publisher:
-  name: YouTube
-  domain: youtu.be
-  url: 'https://www.youtube.com/'
-  favicon: 'https://www.youtube.com/favicon.ico'
-sourcePath: _posts/2016-02-10-corey-howe-promo.md
-published: true
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
