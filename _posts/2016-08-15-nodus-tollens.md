@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Nodus Tollens
-datePublished: '2016-08-15T19:59:50.306Z'
-dateModified: '2016-08-15T19:59:50.028Z'
+datePublished: '2016-08-15T20:00:53.088Z'
+dateModified: '2016-08-15T20:00:19.658Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-15-nodus-tollens.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-15-nodus-tollens.md
 url: nodus-tollens/index.html
 _type: Article
 
