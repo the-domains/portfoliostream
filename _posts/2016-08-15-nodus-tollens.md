@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Director/Writer/Executive Producer/Editor/Composer
-datePublished: '2016-08-15T20:12:15.578Z'
-dateModified: '2016-08-15T20:12:11.516Z'
+datePublished: '2016-08-15T20:14:08.954Z'
+dateModified: '2016-08-15T20:14:03.071Z'
 title: Nodus Tollens
 author: []
 via: {}
@@ -19,7 +19,7 @@ _type: Article
 
 ---
 # Nodus Tollens
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e2b0c6beafa806c003efc44b6bdafeb6/croprotate.jpg?cropheight=8000&cropwidth=5180&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F23f5db0e-3a37-4aed-8a1f-390a8a93c85a.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/08e16529e7fed7bf0f75927384066e5295d93e5c.jpg)
 
 Director/Writer/Executive Producer/Editor/Composer
 
