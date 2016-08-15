@@ -4,7 +4,6 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://youtu.be/HcsMFbZEkdI'
 inLanguage: en
-starred: false
 keywords:
   - symbiosis
   - duration
@@ -16,11 +15,11 @@ keywords:
   - ndtv
   - abp
   - canteen
-description: ''
-datePublished: '2016-02-12T22:42:43.725Z'
-dateModified: '2016-02-10T22:29:24.707Z'
+description: Cinematography/editor/color/composer/writer/sound
+datePublished: '2016-08-15T20:28:31.666Z'
+dateModified: '2016-08-15T20:28:21.518Z'
 author:
-  - name: Kevin Dugger
+  - name: ''
     url: 'https://www.youtube.com/channel/UC7jv2f8BZn0J5VxOlFMowpA'
     avatar: {}
 related: []
@@ -37,13 +36,14 @@ app_links:
     type: web
 title: Symbiosis
 sourcePath: _posts/2016-02-10-symbiosis.md
-published: true
 authors: []
 publisher:
-  name: YouTube
+  name: ''
   domain: youtu.be
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+via: {}
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
