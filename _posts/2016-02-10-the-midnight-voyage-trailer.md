@@ -4,7 +4,6 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://youtu.be/J57dH6kGUns'
 inLanguage: en
-starred: false
 keywords:
   - duration
   - voyage
@@ -16,11 +15,11 @@ keywords:
   - calderazzo
   - wmv
   - margarit
-description: ''
-datePublished: '2016-02-10T18:19:38.021Z'
-dateModified: '2016-02-10T17:55:49.236Z'
+description: 'Composer/editor '
+datePublished: '2016-08-15T20:28:40.584Z'
+dateModified: '2016-08-15T20:28:34.986Z'
 author:
-  - name: Kevin Dugger
+  - name: ''
     url: 'https://www.youtube.com/channel/UC7jv2f8BZn0J5VxOlFMowpA'
     avatar: {}
 related: []
@@ -36,14 +35,15 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=J57dH6kGUns&feature=applinks'
     type: web
 title: The Midnight Voyage Trailer
+sourcePath: _posts/2016-02-10-the-midnight-voyage-trailer.md
 authors: []
 publisher:
-  name: YouTube
+  name: ''
   domain: youtu.be
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-02-10-the-midnight-voyage-trailer.md
-published: true
+via: {}
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
