@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-15T20:02:36.098Z'
-dateModified: '2016-08-15T20:02:29.401Z'
+datePublished: '2016-08-15T20:03:29.019Z'
+dateModified: '2016-08-15T20:03:14.091Z'
 title: Nodus Tollens
 author: []
 via: {}
