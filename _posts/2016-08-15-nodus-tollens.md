@@ -1,26 +1,31 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: Director/Writer/Executive Producer/Editor/Composer
-datePublished: '2016-08-15T20:35:29.942Z'
-dateModified: '2016-08-15T20:35:26.224Z'
-title: Nodus Tollens
-author: []
-via: {}
+datePublished: '2016-08-24T20:00:26.154Z'
 sourcePath: _posts/2016-08-15-nodus-tollens.md
+inFeed: true
 authors: []
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-08-24T20:00:25.627Z'
+title: Nodus Tollens
 publisher: {}
+description: Director/Writer/Executive Producer/Editor/Composer
+inLanguage: null
+inNav: false
 starred: false
 url: nodus-tollens/index.html
 _type: Article
 
 ---
 # Nodus Tollens
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fbfa14e6bf798cec640508385f16f186/croprotate.jpg?cropheight=8000&cropwidth=5180&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fdc2080a4-1b6c-4d73-abd2-fd590311d104.jpg&x=0&y=0)
 
 Director/Writer/Executive Producer/Editor/Composer
+
+    <iframe src="https://player.vimeo.com/video/165807781?portrait=0" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cc0e89a0cf404b71cd827619741254ca0674cf5.jpg)
 
 (click poster to view trailer)
